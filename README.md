@@ -14,6 +14,7 @@
 * firefox
 * pcmanfm
 * i3lock
+
 Make sure you have a wallpaper in ~/.config/wall.jpg and a lock picture in ~/.config/lock.png!
 ### xinitrc:
 * unclutter
